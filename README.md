@@ -9,6 +9,14 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
+## 🌐 Live Application
+
+You can explore the deployed version here:  
+👉 [Try Yourself !]( https://cadisbot.streamlit.app/ ) 
+
+Upload a document and start asking questions instantly.
+
+---
 
 ## 🌍 The Idea Behind This Project
 
