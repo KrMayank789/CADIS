@@ -1,5 +1,5 @@
-langchain-google-genai==0.1.0
-google-generativeai
+langchain_google_genai==0.1.0
+google_generativeai
 aiohappyeyeballs==2.6.1
 aiohttp==3.13.3
 aiosignal==1.4.0
