@@ -1,4 +1,4 @@
-# 📄 Context-Aware Document Intelligence  
+# 📄 Hey! I am CADIS a Context-Aware Document Intelligence System
 ### A Simple Yet Powerful RAG Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
