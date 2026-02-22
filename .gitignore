@@ -1,15 +1,13 @@
-# Security (NEVER PUSH THIS)
+
 .env
 
-# Virtual Environments
 venv/
 .venv/
 
-# Local Vector Database 
-# (It's too heavy for GitHub, we want it to build fresh)
+
 chroma_db_streamlit/
 
-# Python Cache
+
 __pycache__/
 *.pyc
 *.pyo
